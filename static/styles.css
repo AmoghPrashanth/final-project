@@ -1,6 +1,7 @@
   .icon-bar {
     width: 90px; /* Set a specific width */
-    background-color: black;
+    height: 100%;
+    background-color: #1A1110;
   }
 
   .icon-bar a {
@@ -10,6 +11,7 @@
     transition: all 0.3s ease; /* Add transition for hover effects */
     color: white; /* White text color */
     font-size: 20px; /* Increased font-size */
+    height: 90px;
     text-decoration: none;
   }
 
@@ -20,4 +22,16 @@
   .body {
     background-color: black;
   }
+
+  .maindiv {
+    margin-left: 100px;
+    background-color: white;
+
+  }
+
+  .text {
+    color: white;
+  }
+
+
 
